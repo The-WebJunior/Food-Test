@@ -1,0 +1,20 @@
+{
+  "name": "deidine",
+  "version": "1.0.0",
+  "description": "deidine",
+  "main": "index.js",
+  "scripts": {
+    "start-multiple":"cd backend && node index.js\"cd client && SET NODE_OPTIONS=--openssl-legacy-provider && ng serve ",
+     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deidine/restaurant-angular-nodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deidine/restaurant-angular-nodeJs/issues"
+  },
+  "homepage": "https://github.com/deidine/restaurant-angular-nodeJs#readme"
+}
